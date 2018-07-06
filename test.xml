@@ -1,0 +1,11 @@
+<?xml version = "1.0"?>
+<GENERAL name="Carl" intrepid="true">
+    <LIUTENANT name="Mike" spineless="true">
+        <GRUNT name="steve"/>
+        <GRUNT name="Oscar" moronic="true"/>
+    </LIUTENANT>
+    <LIUTENANT name="Scott" agoraphobic="true">
+        <GRUNT name="Tommy"/>
+    </LIUTENANT>
+</GENERAL>
+

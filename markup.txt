@@ -1,0 +1,26 @@
+GENERAL
+    name:Carl
+    intrepid
+    LIUTENANT
+        name:Mike
+        spineless
+        GRUNT
+            name:Steve
+        GRUNT
+            name:Oscar
+            moronic
+    LIUTENANT
+        name:Scott
+        agoraphobic
+        GRUNT
+            name:Tommy
+
+
+
+
+allt som ligger under en viss nod indenteras med en "\t" från sin förälder
+strängar är flaggor
+2 strängar skiljda med ":" är attribut (nyckel/värde)
+Store bokstäver är typen
+
+

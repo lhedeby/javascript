@@ -1,0 +1,20 @@
+nav {
+  background-color: firebrick;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 10px solid royalblue;
+  border-left: 10em;
+}
+p {
+  background-color: chartreuse;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+  text-align: center;
+  border: 3px solid royalblue;
+  padding: 10px;
+  margin: 2em;
+}
